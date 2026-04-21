@@ -4,7 +4,6 @@
 Este proyecto consiste en el desarrollo de un sitio web aplicando criterios fundamentales de SEO on-page, estructura semántica en HTML5 y buenas prácticas técnicas de desarrollo frontend.  
 El objetivo principal fue construir una web optimizada tanto para usuarios como para motores de búsqueda, asegurando accesibilidad, rendimiento y correcta indexación.
 
----
 
 ## 🎯 Objetivos del proyecto
 - Aplicar técnicas de SEO on-page en un sitio real
@@ -14,14 +13,11 @@ El objetivo principal fue construir una web optimizada tanto para usuarios como 
 - Simular configuraciones técnicas de SEO (robots.txt y sitemap.xml)
 - Incorporar buenas prácticas profesionales de desarrollo web
 
----
 
 ## 🛠️ Tecnologías utilizadas
 - HTML5
 - CSS3
 - Bootstrap
-
----
 
 ## 🔍 Implementación SEO
 
@@ -57,9 +53,6 @@ Esto mejora la comprensión del contenido por parte de los motores de búsqueda.
 - Distribución equilibrada (densidad controlada)
 - Inclusión natural dentro de los textos
 
----
-
----
 
 ## ✅ Buenas prácticas aplicadas
 - Naming de archivos descriptivo y en minúsculas
@@ -69,13 +62,11 @@ Esto mejora la comprensión del contenido por parte de los motores de búsqueda.
 - Uso de Bootstrap para grillas responsive
 - Accesibilidad básica aplicada
 
----
 
 ## 🤖 Archivos SEO técnicos
 
 ### robots.txt (simulado)
 Permite indicar qué partes del sitio deben o no ser indexadas:
-
 
 ### sitemap.xml (simulado)
 Define la estructura del sitio y la prioridad de páginas:
